@@ -1,0 +1,205 @@
+/** - Very Pale Cyan: hsl(193, 100%, 96%)
+- Very Dark Cyan: hsl(192, 100%, 9%)
+- Grayish Blue: hsl(208, 11%, 55%)
+- Pink: hsl(322, 100%, 66%) **/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@600&display=swap');
+
+body{
+    font-size: 18px;
+}
+
+.container{
+    max-width: 400px;
+}
+
+
+
+/**--Section 1--**/
+.sect-1{
+    background-image: url(/assets/Images/bg-hero-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: hsl(193, 100%, 96%);
+    padding: 15px 20px;
+}
+
+.img-mockups{
+    width: 100%;
+    margin-top: 50px;
+}
+.img-logo{
+    width: 100px;
+}
+
+.B-white{
+    float: right;
+    background-color: #fff;
+    width: 110px;
+    border-radius: 15px;
+    padding: 3px 15px;
+    color: hsl(192, 100%, 9%);
+    border: 0;
+    font-family: Poppins;
+    box-shadow: 1px 5px 5px #888888;
+}
+
+.build-community{
+    text-align: center;
+    font-family: Poppins;
+    margin-top: 70px;
+    padding: 15px;
+}
+
+.huddle-p{
+    font-family: Open sans;
+    text-align: center;
+}
+
+.B-pink{
+    align-content: center;
+    background-color: hsl(322, 100%, 66%);
+    border: 0;
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: #fff;
+    font-family: Open sans;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    align-content: center;
+}
+
+
+
+/**--Section 1 end--**/
+
+/**--Section 2--**/
+
+.sect-2{
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 50px 40px;
+    box-shadow: 0px 0px 20px hsl(208, 11%, 55%);
+}
+
+.img-grow{
+    width: 100%;
+}
+
+.grow{
+    text-align: center;
+    font-family: Poppins;
+}
+
+.generate-p{
+    text-align: center;
+    font-family: Open sans;
+    color: hsl(208, 11%, 55%);
+    margin-bottom: 0;
+}
+
+/**--Section 2 end--**/
+
+/**--Section 3--**/
+
+.sect-3{
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 50px 40px;
+    box-shadow: 0px 0px 20px hsl(208, 11%, 55%); 
+}
+
+.img-flowing{
+    width: 100%;
+}
+
+.flowing{
+    text-align: center;
+    font-family: Poppins;
+}
+
+.you-p{
+    text-align: center;
+    font-family: Open sans;
+    color: hsl(208, 11%, 55%);
+    margin-bottom: 0;
+}
+/**--Section 3 end--**/
+
+/**--Section 4--**/
+
+.sect-4{
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 50px 40px;
+    box-shadow: 0px 0px 20px hsl(208, 11%, 55%); 
+}
+
+.img-your-users{
+    width: 100%;
+}
+
+.your{
+    text-align: center;
+    font-family: Poppins;
+}
+
+.it-takes-p{
+    text-align: center;
+    font-family: Open sans;
+    color: hsl(208, 11%, 55%);
+    margin-bottom: 0;
+}
+
+/**--Section 4 end--**/
+
+/**--Section 5--**/
+
+.sect-5{
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px hsl(208, 11%, 55%);
+    margin-top: 110px;
+    padding: 20px 10px;
+}
+
+.ready{
+    text-align: center;
+    font-family: Poppins;
+}
+
+.B-bottom-pink{
+    align-content: center;
+    background-color: hsl(322, 100%, 66%);
+    border: 0;
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: #fff;
+    font-family: Open sans;
+    letter-spacing: 1px;
+    align-content: center;
+    margin-bottom: 20px;
+}
+
+
+
+/**--Section 5 end--**/
+
+.ground-col-blue{
+    background-color: hsl(192, 100%, 9%);
+}
+
+/**--Section 6--**/
+
+.sect-6{
+    color: #fff;
+}
+
+.img-logo-footer{
+    width: 150px;
+    margin-top: 70px;
+}
+
+
+
+/**--Section 6 end--**/
